@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AudioCaptureSample</string>
+    <string name="play_record_sound">Play record sound</string>
+    <string name="hold_for_record_sound">Hold for record sound</string>
+</resources>
